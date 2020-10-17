@@ -23,6 +23,10 @@ Happy é uma aplicação com o propósito de agendar visitas em orfanatos de sua
 ### Framework frontend
 * React
 
+### Tecnologias Mobile
+* React Native
+* Expo
+
 ### Execução
 * Instale as bibliotecas utilizando `npm install` ou qualquer outro gerenciador de pacotes.
 * Execute utilizando `npm start`.
